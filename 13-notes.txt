@@ -1,0 +1,9 @@
+From flag.txt write
+
+V20xNGFGb3pkRk5rVmxKdVVqQktjbVZYTVVaa01FcHlXVmRXVFZOSGREaz0=
+Wm14aFozdFNkVlJuUjBKcmVXMUZkMEpyWVdWTVNHdDk=
+ZmxhZ3tSdVRnR0JreW1Fd0JrYWVMSGt9
+
+From flag2.txt write
+
+flag{ThisIsAFakeFlag}
