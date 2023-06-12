@@ -1,0 +1,11 @@
+c3b1f3e20dda13ae1c9f7da923434deda898259b3780a8baddb610b372781683
+7e1fe32820b829e98c932bd38b1894ce7330b189a0eed09e859d2a65eaa4d885
+
+VLft0DfMlVXhc53n9DpHphRdsqWv0Yzmeq0egDOy
+CgjSrLoEPFLw9wuCPAztocb08FSBy5ZHd2RmENgi
+
+Command:
+./hashpump -s "7e1fe32820b829e98c932bd38b1894ce7330b189a0eed09e859d2a65eaa4d885" -d "model=default&epoch=10&epoch=10" -a "&epoch=10" -k 18
+
+Final URL:
+https://r0.nzcsc.org.nz/challenge9/artistintelligence.php?mac=cb8a6165f88212dad7f7da045f6eae449e50003e5ac5889202f80c980e0b6fc6&model=default&epoch=10&epoch=10%80%00%00%00%00%00%00%00%00%00%00%00%00%01%88&epoch=10

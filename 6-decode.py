@@ -1,0 +1,36 @@
+
+hex = 'af81a0b2aeacacac9f8190aa9b86ac928c8ca69eb4'
+
+if __name__ == "__main__":
+    with open('6-emojis.txt') as file:
+        line = file.readline()
+    
+    for emoji in line:
+        print(emoji.encode('utf-8'))
+        
+        # print(emoji)
+        
+# b'\xf0\x9f\x8d\xaf'
+# b'\xf0\x9f\x8e\x81'
+# b'\xf0\x9f\x8d\xa0'
+# b'\xf0\x9f\x8d\xb2'
+# b'\xf0\x9f\x8e\xae'
+# b'\xf0\x9f\x8d\xac'
+# b'\xf0\x9f\x8d\xac'
+# b'\xf0\x9f\x8d\xac'
+# b'\xf0\x9f\x8e\x9f'
+# b'\xf0\x9f\x8e\x81'
+# b'\xf0\x9f\x8e\x90'
+# b'\xf0\x9f\x8c\xaa'
+# b'\xf0\x9f\x8c\x9b'
+# b'\xf0\x9f\x8c\x86'
+# b'\xf0\x9f\x8d\xac'
+# b'\xf0\x9f\x8c\x92'
+# b'\xf0\x9f\x8c\x8c'
+# b'\xf0\x9f\x8c\x8c'
+# b'\xf0\x9f\x8d\xa6'
+# b'\xf0\x9f\x8c\x9e'
+# b'\xf0\x9f\x8e\xb4'
+# af81a0b2aeacacac9f8190aa9b86ac928c8ca69eb4
+# HWRPVCCCAWWCFCCWMMSSF
+# hwrpvcccawwcfccwmmssf

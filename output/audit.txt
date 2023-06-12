@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Jun 10 00:49:23 2023
+Invocation: foremost rougerobots.png 
+Output directory: /home/joelshep/documents/2023CyberSecChallenge/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: rougerobots.png
+Start: Sat Jun 10 00:49:23 2023
+Length: 182 KB (186869 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     182 KB 	          0 	  (512 x 512)
+Finish: Sat Jun 10 00:49:23 2023
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Jun 10 00:49:23 2023
